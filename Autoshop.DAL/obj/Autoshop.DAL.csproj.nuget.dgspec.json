@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP\\Autoshop\\Autoshop.DAL\\Autoshop.DAL.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP\\Autoshop\\Autoshop.DAL\\Autoshop.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Autoshop\\Autoshop.DAL\\Autoshop.DAL.csproj",
+        "projectName": "Autoshop.DAL",
+        "projectPath": "D:\\ASP\\Autoshop\\Autoshop.DAL\\Autoshop.DAL.csproj",
+        "packagesPath": "C:\\Users\\ARTHUR\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Autoshop\\Autoshop.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARTHUR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj": {
+                "projectPath": "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj",
+        "projectName": "Autoshop.Domain",
+        "projectPath": "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj",
+        "packagesPath": "C:\\Users\\ARTHUR\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Autoshop\\Autoshop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARTHUR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

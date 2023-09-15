@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZgq4Z5OQxsb4qMJFcv2s6sVDCpn63NgITSVC1CseIpzTLhTmykUNfBwJCmjMd0sA03Y2/hdV58FqedqL5vXXw==",
+  "success": true,
+  "projectFilePath": "D:\\ASP\\Autoshop\\Autoshop.Domain\\Autoshop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARTHUR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ARTHUR\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ARTHUR\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
